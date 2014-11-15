@@ -1,0 +1,3 @@
+[submodule "MyApplication/libs/gpuimage"]
+	path = MyApplication/libs/gpuimage
+	url = git@github.com:fufulabs/android-gpuimage.git
